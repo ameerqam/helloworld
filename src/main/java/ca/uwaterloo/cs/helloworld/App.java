@@ -7,6 +7,6 @@ public class App
 {
     public static void main( String[] args )
     {
-      ;gdkhfjhs System.out.println( "Hello, world!" );
+      ;dkhfjhs System.out.println( "Hello, world!" );
     }
 }
